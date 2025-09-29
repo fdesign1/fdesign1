@@ -8,6 +8,12 @@
   
   - <h5> currently learning </h5>
 
+  - <h4> frameworks & libraries </h4>
+  <img src = "https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react-native" />
+  <img src = "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt = "expressjs" />
+  <img src = "https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt = "expo" />
+  <img src = "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt = "bootstrap5" />
+
 <!--
 **fdesign1/fdesign1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
