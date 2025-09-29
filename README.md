@@ -1,11 +1,18 @@
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
-- :credit_card: My full name is **Matias** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
-- :school: I'm currently working as a support engineer**
-- :books: My major is **Software Engineering**
+
+<p>
+  <h1 align="center"><b>Hello there, I'm Matías👋</b></h1>
+</p>
+<a href="https://www.instagram.com/mtw.33"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/matif33/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+
+## About Me
+
+- :school: I am currently an IT Support Engineer (P2), for a company that develops tools for software developers and testers in the OpenAPI ecosystem. I am passionate about web development and constantly expanding my knowledge of new technologies. I enjoy building visually appealing and functional websites that provide engaging user experiences.
+- :books: I like to learn stuff about **Software Engineering**
 - :earth_asia: I'm living now in **Wroclaw, Poland**
-- :sweat_smile: I'm a newbie in coding, know Javascript and React. Now I'm focus advanced stuff.
-- :monocle_face: I'm interested in software engineering, motorbikes and more
+- :sweat_smile: I know Javascript and React. Now I'm focus advanced stuff.
+- :monocle_face: Outside tech, I like to ride motorbikes, go to the gym, swimming and play videogames.
 - :sunglasses: My quote is ***"I have no idols. I admire work, dedication and competence."*** 
 ### ☕️Languages
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -51,6 +58,8 @@
 ![yarn](https://img.shields.io/badge/yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
 
 
 <!--
